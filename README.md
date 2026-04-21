@@ -1,7 +1,6 @@
-# RiseofAgonScanner
-Rise of Agon Metric Scanner (Nexus 1.3)
-
 # Nexus Analytics
+
+![Nexus Analytics](https://i.imgur.com/5dIhiT9.png)
 
 A tool for scanning and analyzing PvP gank history on [Rise of Agon](https://www.riseofagon.com). Runs locally on your computer and opens in your browser — no account or internet hosting needed.
 
