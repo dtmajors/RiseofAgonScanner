@@ -1,6 +1,6 @@
 # Nexus Analytics
 
-![Nexus Analytics](screenshot.png))
+![Nexus Analytics](screenshot.png)
 
 A tool for scanning and analyzing PvP gank history on [Rise of Agon](https://www.riseofagon.com). Runs locally on your computer and opens in your browser — no account or internet hosting needed.
 
