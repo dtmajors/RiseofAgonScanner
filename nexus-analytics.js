@@ -273,7 +273,7 @@ tr:hover td{background:var(--bg3)}
       </div>
       <div class="field">
         <div class="label">Page Pattern</div>
-        <input type="text" id="patternInput" value="https://www.riseofagon.com/agonmetrics/pvp/global/ganks/{page}/"/>
+        <input type="text" id="patternInput" value="https://www.riseofagon.com/agonmetrics/pvp/global/{page}/"/>
         <div class="row2" style="margin-top:6px">
           <input type="number" id="pageFrom" value="1" min="1" placeholder="from"/>
           <input type="number" id="pageTo" value="3000" min="1" placeholder="to"/>
